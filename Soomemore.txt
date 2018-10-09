@@ -1,3 +1,7 @@
+>>>>>>> HEAD
 This is my new file
 
 boom booom
+=======
+This is my new file
+>>>>>>> 0ddcdb623afe3d8c031df1c939537c2613acd139
